@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+altair
+plotly
+joblib
+scikit-learn
